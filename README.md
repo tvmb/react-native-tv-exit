@@ -26,7 +26,7 @@ Usage
 -----
 
 ```javascript
-import Exit from 'react-native-tv-exit
+import Exit from 'react-native-tv-exit';
  
 () => Exit.exitApp();
 ```
