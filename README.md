@@ -4,7 +4,7 @@ Simple exit module for react-native projects for tvOS.  Call whenever you want t
 Installation
 ------------
 
-1. Install with `npm` or `yarn`
+Install with `npm` or `yarn`
 
 ``` bash
 $ npm install react-native-tv-exit --save
@@ -14,13 +14,13 @@ or
 $ yarn add react-native-tv-exit
 ```
 
-2. Link native code
+Link native code
 
 ``` bash
 $ react-native link react-native-tv-exit
 ```
 
-3. Open Xcode.  Navigate to your TV project and add *libRNExit.a* in: **Build Phases | Link Binary With Libraries**
+Open Xcode.  Navigate to your TV project and add *libRNExit.a* in: **Build Phases | Link Binary With Libraries**
 
 Usage
 -----
