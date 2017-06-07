@@ -1,6 +1,6 @@
 {
   "name": "react-native-tv-exit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Joe Cruz <joecruz.tvmb@gmail.com>",
   "license": "MIT",
   "repository": {
@@ -11,12 +11,7 @@
   "keywords": [
     "react-component",
     "react-native",
-    "ios",
-    "android",
-    "SVG",
-    "ART",
-    "VML",
-    "gradient"
+    "tvos"
   ],
   "main": "index.js",
   "scripts": {
