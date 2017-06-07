@@ -1,5 +1,5 @@
 # react-native-tv-exit
-Simple exit module for react-native projects for tvOS
+Simple exit module for react-native projects for tvOS.  Call whenever you want to close out your app and go back to the homescreen.
 
 Installation
 ------------
